@@ -1,0 +1,22 @@
+﻿@model LoginDTO;
+
+<h1>
+    Formulaire exemple
+</h1>
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div>
+        <label>Email : </label>
+        <input type="email" asp-for="Email"  />
+        <br />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div>
+        <label>Password : </label>
+        <input type="password" asp-for="Password" />
+        <br/>
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <input type="submit" />
+</form>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular23TFASPMVC", "Angular23TFASPMVC\Angular23TFASPMVC.csproj", "{632CA889-FF69-468B-A7DC-893C6F33864A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632CA889-FF69-468B-A7DC-893C6F33864A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632CA889-FF69-468B-A7DC-893C6F33864A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632CA889-FF69-468B-A7DC-893C6F33864A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632CA889-FF69-468B-A7DC-893C6F33864A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DE8D1D6-77FD-4C4A-8771-4E6B07357A89}
+	EndGlobalSection
+EndGlobal
